@@ -1,0 +1,7 @@
+{
+  "UI_So4Mic_On": "마이크 켜짐 · T",
+  "UI_So4Mic_Off": "마이크 꺼짐 · T",
+  "UI_So4Mic_Unavailable": "음성 채팅 비활성화",
+  "UI_So4Mic_EnableVoice": "게임 및 서버의 음성 채팅을 활성화하세요.",
+  "UI_So4Mic_Error": "마이크 전환에 실패했습니다. 음성 설정을 확인하세요."
+}

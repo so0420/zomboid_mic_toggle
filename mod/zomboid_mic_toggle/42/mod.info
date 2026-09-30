@@ -1,0 +1,6 @@
+id=zomboid_mic_toggle
+name=SO4 Microphone Toggle
+description=Build 42 microphone toggle: press T once to talk hands-free, press again to mute. Other players remain audible.
+author=so0420
+modversion=1.0.0
+versionMin=42.0.0

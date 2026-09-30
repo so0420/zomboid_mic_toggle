@@ -1,0 +1,7 @@
+{
+  "UI_So4Mic_On": "MIC ON · T",
+  "UI_So4Mic_Off": "MIC OFF · T",
+  "UI_So4Mic_Unavailable": "Voice chat disabled",
+  "UI_So4Mic_EnableVoice": "Enable voice chat in game and server settings.",
+  "UI_So4Mic_Error": "Microphone toggle failed. Check your voice settings."
+}
